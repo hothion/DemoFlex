@@ -3,6 +3,6 @@
 <head>
 </head>
 <body>
-<img src="flextDemo.png">
+<img src="flextDemo3.png">
 </body>
 </html>
