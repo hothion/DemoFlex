@@ -1,8 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-</head>
-<body>
+#DemoFlext3
 <img src="flextDemo3.png">
-</body>
-</html>
+
